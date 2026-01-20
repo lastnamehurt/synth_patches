@@ -2,6 +2,8 @@
 
 Patch libraries for hardware synthesizers, designed for sampling into MPC One+.
 
+**See also:** [MPC Song Building Quickstart](../MPC-SONG-BUILDING-QUICKSTART.md) — From beat to finished song
+
 ## Synths
 
 | Synth | Patches | Status |

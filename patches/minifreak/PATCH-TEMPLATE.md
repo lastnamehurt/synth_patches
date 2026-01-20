@@ -68,7 +68,9 @@ Copy this template for every new MiniFreak patch. See [MINIFREAK-REFERENCE.md](M
 
 ---
 
-## Modulation
+## Modulation (SET IN MATRIX)
+
+**These routings must be configured in the Modulation Matrix section of the MiniFreak.**
 
 | Source | Destination | Amount |
 |--------|-------------|--------|

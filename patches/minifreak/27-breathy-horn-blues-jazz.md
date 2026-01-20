@@ -59,7 +59,9 @@
 
 ---
 
-## Modulation
+## Modulation (SET IN MATRIX)
+
+**Go to the Matrix section on your MiniFreak to create these routings.**
 
 | Source | Destination | Amount |
 |--------|-------------|--------|
